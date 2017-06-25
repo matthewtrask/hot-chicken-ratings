@@ -14,7 +14,7 @@ try {
 } catch (e) {}
 
 import Vue from 'vue';
-import VueResource from 'vue';
+import VueResource from 'vue-resource';
 import VueRouter from 'vue-router'
 import Axios from 'axios';
 
